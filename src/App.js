@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-
+import NewFile from './NewFile'
 export default class App extends Component {
   render() {
     return (
       <div>
-        <p>React bo`yicha kurslar </p>
+        <NewFile/>
       </div>
     )
   }
