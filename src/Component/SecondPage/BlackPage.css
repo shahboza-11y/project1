@@ -1,0 +1,44 @@
+#titleBlackPage{
+    font-size: 48px;
+    /* color: white; */
+    font-weight: 700;
+    line-height: 56.25px;
+    margin-top: 114px !important;
+         
+}
+.textBlackPage{
+    font-size: 24px;
+    /* color: white; */
+    font-weight: 400;
+    line-height: 33.75px;
+}
+#btnBlackPage{
+    width: 156px;
+}
+#btn2BlackPage{
+    width: 156px;
+    background-color:  rgba(255, 255, 255, 0.25);
+    ;
+}
+
+#btnBlackPageThree{
+    width: 250px;
+}
+#textBlackPage{
+    width: 280px;
+    height: 62px;
+    margin: 0 auto;
+}
+
+.thirdPageTitleClsName{
+    align-items: center;
+}
+
+
+.forBackgroundColorBlackPage{
+    background-color: black !important;
+}
+
+#ThirdpageSection{
+    background-color: black !important;
+}
