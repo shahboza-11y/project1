@@ -1,0 +1,48 @@
+.TodoContainer{
+    width: 600px !important;
+    margin:  0 auto;
+    
+}
+.TodoList .list-group-item{
+     background-color:white;
+     padding: 12px;
+     font-size: 18px;
+     border-radius: 10px;
+     font-weight: 500;
+}
+.row{
+  margin: 0 auto;
+  
+}
+.input{
+    height: 40px !important;
+    border-color: white !important;
+    
+    
+}
+.SunIcon{
+    width: 23px !important;
+    height: 23px !important;
+}
+.addBtn{
+    width: 40px !important;
+    height: 40px !important;
+    
+}
+.circleBtn{
+    border-radius: 100px !important;
+    border: 1px solid black !important;
+    width: 40px !important;   
+    height: 40px !important;
+    
+}
+
+.complated .text{
+    text-decoration: line-through;
+    color: grey;
+}
+
+.complated .checked{
+    display: block !important;    
+}
+
